@@ -16,7 +16,7 @@ Current staus about me:
 - 💬 Ask me about how to start learning about scala even I am not pro but we can learn togther
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn @AjitTk](https://www.linkedin.com/in/ajitk/)
 - 😄 Pronouns: Ajeet
-- ⚡ Fun fact: I have programming memes page on instagram @dev.memes.repost https://www.instagram.com/dev.memes.repost/
+- ⚡ Fun fact: I have programming memes page on instagram  [![Generic badge](https://img.shields.io/badge/Insagram-%40dev.memes.repost-green.svg)](https://www.instagram.com/dev.memes.repost/)
 
 
 <!--
