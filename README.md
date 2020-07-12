@@ -2,7 +2,7 @@
 #### Glad to see you Here
 A Journy from college fest gaming website to developer in Here is amazing :smile: . Learning and earning is equally balanced till now. Javascript :yellow_heart: is my favourite language because its easy to use I Love :heart: java because its feed me and python :heart: because it Help me in Poc's :thought_balloon: :) 
 
-[![Generic badge](https://img.shields.io/badge/Programmer-100%-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Programmer-100%25-green.svg)](https://shields.io/)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ajittk)
 
