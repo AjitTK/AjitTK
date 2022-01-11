@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### Glad to see you Here
-A Journy from college fest gaming website developer to professional developer is amazing :smile: . Learning and earning is equally balanced till now. Javascript :yellow_heart: is my favourite language because its easy to use, I Love :heart: java because its feed me and python :heart: because it Help me in Poc's :thought_balloon: :) 
+A Journy from college fest game developer to professional developer is amazing :smile: . 
 
 [![Generic badge](https://img.shields.io/badge/Programmer-100%25-green.svg)](https://shields.io/)
 
